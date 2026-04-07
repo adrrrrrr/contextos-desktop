@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.env.*
+*.log
+.DS_Store
+node_modules/
+.contextos-desktop/
+*.db
+.venv/
+venv/
+.contextos-local/
+push-v0.1.0.sh
